@@ -1,0 +1,76 @@
+major,division,subdivision,code,display_name
+Computer Science,I,1,COMP,
+Mathematics,I,1,MATH,
+Statistics,I,1,STAT,
+Chemistry,I,3,CHEM,
+Physics,I,3,PHYS,Physics and Astronomy
+Materials Science,I,3.5,MATS,
+Earth & Planetary Sciences,I,4,EPS,
+Environmental Sciences,I,4,ENVS,
+Biological Sciences,I,5,BIOS,
+Neuroscience,I,5,NEUR,
+Global Health Studies,I,5.5,GLHS,
+Integrated Science Program,I,6,ITSI,
+Math Methods in the Social Sci,II,1,MMSS,Math Methods in the Social Sciences
+Business Institutions,II,2,BIP,
+Cognitive Science,II,2,COGS,
+Economics,II,2,ECON,
+Linguistics,II,2,LING,
+Psychology,II,2,PSYC,
+Environmental Policy & Culture,II,4,EPC,
+Science in Human Culture,II,4,SHC,
+Geography,II,4.5,GEO,
+Anthropology,II,5,ANTH,
+Legal Studies,II,5,LEGS,
+Political Science,II,5,POLS,
+Sociology,II,5,SOCI,
+Urban Studies,II,5,UBST,
+African American Studies,II,6,AFAM,
+American Studies,II,6,AMST,
+Asian American Studies,II,6,AAMS,
+European Studies,II,6,EUST,
+International Studies,II,6,INST,
+History,II,7,HIST,
+Asian Languages,III,1,ALC,Asian Languages and Cultures
+Asian Languages &Civilizations,III,1,ALC,Asian Languages and Cultures
+Asian Languages and Cultures,III,1,ALC,Asian Languages and Cultures
+Chinese Language & Culture,III,1,ALC,Asian Languages and Cultures
+Japanese Language & Culture,III,1,ALC,Asian Languages and Cultures
+French,III,1,FREN,
+Hebrew Studies,III,1,HEB,
+Italian,III,1,ITAL,
+Portuguese,III,1,PORT,Portuguese Lang & Lusophone Cultures
+Portuguese Lng & Lusophone Clt,III,1,PORT,Portuguese Lang & Lusophone Cultures
+Spanish,III,1,SPAN,Spanish
+Spanish and Portuguese,III,1,SPPT,Spanish
+Slavic Languages & Literatures,III,1,SLAV,
+Business German,III,1.25,BGER,
+German,III,1.25,GERM,
+German Studies,III,1.25,GERS,
+Asian & Mid East Lang & Civ,III,1.5,MENA,Middle East & North African Studies
+Asian & Middle East Studies,III,1.5,MENA,Middle East & North African Studies
+Mid East Langs & Civilizations,III,1.5,MENA,Middle East & North African Studies
+Middle East & North African St,III,1.5,MENA,Middle East & North African Studies
+Middle East Studies,III,1.5,MENA,Middle East & North African Studies
+English,III,2,ENG,
+Comparative Literary Studies,III,2,CLS,
+Critical Theory,III,2,CRIT,
+World Literature,III,2,WLDL,
+Classical Studies,III,2.5,CLST,
+Classics,III,2.5,CLAS,
+Philosophy,III,3,PHIL,
+Religious Studies,III,3,RELST,
+Art History,III,3.5,ARTH,
+Art Theory and Practice,III,3.5,ATP,
+African Studies,III,4,AFST,
+Asian Studies,III,4,ASNST,
+Catholic Studies,III,4,CATH,
+Central and Southeastern European Studies,III,4,CSEE,
+Gender and Sexuality Studies,III,4,GSS,Gender and Sexuality Studies
+Gender Studies,III,4,GSS,Gender and Sexuality Studies
+Jewish Studies,III,4,JS,
+Latin American & Carib Studies,III,4,LACS,Latin American and Caribbean Studies
+Latin American and Caribbean Studies,III,4,LACS,Latin American and Caribbean Studies
+Latina & Latino Studies,III,4,LATS,
+Humanities,III,6,HUM,
+CAS Ad Hoc,III,7,ADHOC,Weinberg Ad Hoc 

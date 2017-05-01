@@ -1,0 +1,72 @@
+.container { margin-top: 20px; }
+.timeContainer { 
+    background-color: #f5f5f5;
+    display: flex;
+    margin-top: 20px;
+    width: 100%; 
+}
+.timeContainer * { margin: 10px; }
+.timeContainer .h2 {}
+
+
+svg { width: 100%; }
+.topGraphs svg { min-height: 480px; }
+
+.topGraphs {
+    margin-top: 15px;
+}
+
+.divisionContainer { 
+    padding: 5px;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.divisionTitleContainer { cursor: pointer; }
+.divisionTitleContainer:hover { stroke: black; stroke-width: 2; }
+.divisionTitleContainer.selected { stroke: black; stroke-width: 1; }
+.divisionTitleContainer text { stroke-width: 0; }
+.divisionTitle .mainTitle { font-weight: bold; }
+
+.major { cursor: pointer }
+.major text, .major .bar { pointer-events:none; }
+.divisionContainer .major:hover .background { stroke-width: 1 }
+.major .background.selected { stroke-width: 2 }
+
+
+.bottomGraphs {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.bottomGraphs .divisionContainer { 
+    background-color: #f5f5f5;
+    border: 2px solid black;
+    padding: 5px;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+.bottomGraphs h2, .bottomGraphs h3 { margin-top: 0; }
+h2, .h2, h3 { font-size: 20px;}
+.bottomGraphs h2 {font-weight: bold}
+.bottomGraphs .timeGraph { width: 100px; height:30px; margin:3px 0 -3px .5em; border-bottom: 1px solid black; border-left: 1px solid black; display:none; /*display:inline-block*/ }
+.bottomGraphs .detailGraph {
+    background-color: white;
+    padding: 5px;
+}
+.bottomGraphs #doubleMajorGraph svg,
+.bottomGraphs #minorGraph svg {
+    min-height: 75px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /*height: 30px;*/
+    background-color: #f5f5f5;
+    color: #333;
+}
+footer p {
+    float: right;
+    margin: 0.5em;
+}

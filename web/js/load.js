@@ -156,7 +156,7 @@ function makeMajorDetail(d, i) {
     selected = d;
     var major = d.key;
     d3.select('.bottomGraphs .row').style('display', 'table');
-    d3.selectAll('.major .background').classed('selected', false);
+    d3.selectAll('.major .background, .divisionTitleContainer').classed('selected', false);
     try { d3.select(this).classed('selected',true); } catch (e) {}
     //update title
     d3.select('#topicTitle').text(major);
@@ -260,7 +260,7 @@ function makeSelectionDetail(selectedMajors) {
     console.log(selectedMajors);
 
     d3.select('.bottomGraphs .row').style('display', 'table');
-    d3.selectAll('.divisionTitleContainer').classed('selected', false);
+    d3.selectAll('.major .background, .divisionTitleContainer').classed('selected', false);
     try { d3.select(this).classed('selected',true); } catch (e) {}
 
     //update title
